@@ -51,3 +51,7 @@ A working Telegram bot prototype that fetches memes from Reddit. Tested locally 
 ```
 
 > ⚠️ Note: This is a prototype. For production use, additional hosting setup is required.
+
+## 📩 Contact
+- Telegram: [@FishyOcean](https://t.me/@FishyOcean)  
+- For bot development inquiries only

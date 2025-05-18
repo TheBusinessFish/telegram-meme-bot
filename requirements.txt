@@ -1,0 +1,13 @@
+python>=3.9  # Minimum Python version required
+
+# Telegram
+aiogram==3.0.0b7  # Async Telegram Bot Framework
+python-dotenv==1.0.0  # .env file loader
+
+# Reddit API
+praw==7.7.1  # Official Reddit API wrapper
+prawcore==2.3.0  # PRAW dependency package
+
+# Async
+aiohttp==3.8.5  # HTTP client for aiogram
+asyncio==3.4.3  # Async I/O support

@@ -10,6 +10,7 @@ from aiogram.client.default import DefaultBotProperties
 from dotenv import load_dotenv
 from typing import List, Dict, Optional
 
+
 load_dotenv()
 
 class MemeBot:
